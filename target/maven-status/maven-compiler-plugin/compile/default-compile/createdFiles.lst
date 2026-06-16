@@ -5,4 +5,5 @@ com/example/crudapp/DataInitializer.class
 com/example/crudapp/controller/AuthController.class
 com/example/crudapp/DatabaseCheckConfig.class
 com/example/crudapp/repository/ServiceRepository.class
+com/example/crudapp/CorsConfig.class
 com/example/crudapp/model/CleaningService.class
